@@ -1,12 +1,12 @@
 
 
-import RenderOutsideTree from "./coderone/RenderOutsideTree"
+import Codesplitting from "./coderone/Codesplitting"
 
 function App() {
   
   return (
     <>
-    <RenderOutsideTree></RenderOutsideTree>
+    <Codesplitting></Codesplitting>
     </>
   )
 }
